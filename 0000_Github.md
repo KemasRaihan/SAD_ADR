@@ -18,5 +18,4 @@ Use lightweight ADR
 We've decided to set up a GitHub repo
 
 ## Consequences
-Can create decision record quickly
-All collaborators can now contribute to this task
+Can create decision record quickly and all collaborators can now contribute to this task.
