@@ -1,6 +1,9 @@
 # Title
 User story format
 
+## Status
+Accepted
+
 ## Context
 User stories need to follow a standard format template so that all the user stories are consistent
 
