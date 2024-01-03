@@ -1,4 +1,4 @@
-## Lightweight ADR
+# Lightweight ADR
 
 # Title
 User story format
